@@ -1,0 +1,51 @@
+.header h1 {
+    font-size: 40pt;
+    color: red;
+}
+
+.header a:hover {
+    text-decoration: none;
+}
+
+body {
+/*     background-image: url("/images/img-003.jpg"); */
+}
+
+p, li {
+    font-size: 140%;
+}
+
+p::first-line {
+    padding-left: 2pt;
+}
+
+/* table of contents */
+a.top {
+    top: 0px;
+    right: 40px;
+}
+
+.toc-wrapper {
+    top: 40px;
+    right: 40px;
+}
+
+.toc-wrapper li {
+    font-size: 100%;
+}
+
+#markdown-toc {
+    padding: none;
+    margin: none;
+    list-style: none;
+}
+
+.toc-wrapper a, a.top {
+    display: block;
+    padding: 5px;
+}
+
+.toc-wrapper a:hover, a.top:hover {
+    background-color: #eee;
+    text-decoration: none;
+}
