@@ -16,7 +16,7 @@ p, li {
 }
 
 p::first-line {
-    padding-left: 2pt;
+    padding-left: 10pt;
 }
 
 /* table of contents */
