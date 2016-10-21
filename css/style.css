@@ -12,7 +12,7 @@ body {
 }
 
 p, li {
-    font-size: 140%;
+    font-size: 100%;
 }
 
 p::first-line {
