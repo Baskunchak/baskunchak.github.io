@@ -1,3 +1,15 @@
+.main {
+    padding-left: 100pt;
+    padding-right: 100pt;
+}
+
+@media (max-width: 980px) {
+    .main {
+        padding-left: 0;
+        padding-right: 0;
+    }
+}
+
 .header h1 {
     font-size: 40pt;
     color: red;
