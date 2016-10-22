@@ -10,6 +10,10 @@
     }
 }
 
+img {
+    margin: 10px;
+}
+
 .header h1 {
     font-size: 40pt;
     color: red;
@@ -40,6 +44,7 @@ a.top {
 .toc-wrapper {
     top: 40px;
     right: 40px;
+    width: 120pt;
 }
 
 .toc-wrapper li {
