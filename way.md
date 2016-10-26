@@ -3,6 +3,11 @@ layout: default
 title: "Баскунчак - как добраться"
 ---
 
+<nav class="nav affix navbar-nav toc-wrapper" markdown='1'>
+* TOC
+{:toc}
+</nav>
+
 Как добраться?
 ==============
 
