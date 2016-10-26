@@ -21,11 +21,10 @@ img {
 
 h2 {
   font-size: 140%;
+  font-style: italic;
 }
 
-p {
- font-style: italic;
-}
+
     
 .header a:hover {
     text-decoration: none;
