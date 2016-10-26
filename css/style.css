@@ -23,6 +23,10 @@ h2 {
   font-size: 140%;
 }
 
+p {
+ font-style: italic;
+}
+    
 .header a:hover {
     text-decoration: none;
 }
