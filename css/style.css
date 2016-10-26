@@ -3,7 +3,7 @@
     padding-right: 100pt;
 }
 
-@media (max-width: 980px) {
+@media (max-width: 1000px) {
     .main {
         padding-left: 0;
         padding-right: 0;
