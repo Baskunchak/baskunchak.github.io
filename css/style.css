@@ -1,6 +1,6 @@
 .main {
-    padding-left: 150pt;
-    padding-right: 150pt;
+    padding-left: 140pt;
+    padding-right: 140pt;
 }
 
 @media (max-width: 980px) {
@@ -35,7 +35,7 @@ body {
 }
 
 p, li {
-    font-size: 100%;
+    font-size: 120%;
 }
 
 p::first-line {
