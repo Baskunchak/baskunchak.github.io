@@ -43,6 +43,10 @@ p, li {
     font-size: 120%;
 }
 
+p {
+    text-align: justify;
+}
+
 p::first-line {
     padding-left: 10pt;
 }
